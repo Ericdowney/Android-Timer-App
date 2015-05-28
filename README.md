@@ -1,2 +1,2 @@
 # Android-Timer-App
-Android example of iOS and AngularJS Timer App.
+Android example of AngularJS Timer App.
